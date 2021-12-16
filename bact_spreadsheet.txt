@@ -1,0 +1,108 @@
+Previous designations	Designation	Isolated by	Plant ID	abbreviation 	unique ID#	Oplant_ID	colony color	colony size	crystals	amplifies with CTS	amplifies with GyrB			
+	KCI 1-1	KH	Cichorium intybus	cicint	0001	cicint1	gold	large	yes					
+	KCI 1-2	KH	Cichorium intybus	cicint	0002	cicint2	pale yellow	tiny	no					
+	KCI 1-3	KH	Cichorium intybus	cicint	0003	cicint3	gold	medium	"yes, scattershot"					
+	KCI 1-4	KH	Cichorium intybus	cicint	0004	cicint4	pink	tiny	no					
+	KCI 2-1	KH	Cichorium intybus	cicint	0005	cicint5	yellow	medium	yes					
+	KCI 3-1	KH	Cichorium intybus	cicint	0006	cicint6	pale yellow	small	yes					
+	KCI 3-2	KH	Cichorium intybus	cicint	0007	cicint7	pale yellow	small	no					
+	KCI 3-3	KH	Cichorium intybus	cicint	0008	cicint8	yellow	medium	"yes, scattershot"					
+	KCI 3-4	KH	Cichorium intybus	cicint	0009	cicint9	pink	tiny	no					
+	KCI 3-5	KH	Cichorium intybus	cicint	0010	cicint10	pink	tiny	no					
+	KCI 3-6	KH	Cichorium intybus	cicint	0011	cicint11	cream	tiny	no					
+	KCI 3-7	KH	Cichorium intybus	cicint	0012	cicint12	pale yellow	small	no					
+	KLF 1-1	KH	Lactuca floridana	lacflori	0013	lacflori13	pale yellow	large	"yes, spearlike"					
+	KLF 2-1	KH	Lactuca floridana	lacflori	0014	lacflori14	pale yellow	small	yes					
+	KLF 2-2	KH	Lactuca floridana	lacflori	0015	lacflori15	yellow	medium	"yes, scattershot"					
+	KLF 2-3	KH	Lactuca floridana	lacflori	0016	lacflori16	cream	small	"yes, caltrops"					
+	KLL 1-1	KH	Lactuca ludoviciana	lacludov	0017	lacludov17	gold	large	no					
+	KLL 1-10	KH	Lactuca ludoviciana	lacludov	0018	lacludov18	pink	tiny	no					
+	KLL 1-2	KH	Lactuca ludoviciana	lacludov	0019	lacludov19	pale yellow	small	yes					
+	KLL 1-3	KH	Lactuca ludoviciana	lacludov	0020	lacludov20	gold	small	yes					
+	KLL 1-4	KH	Lactuca ludoviciana	lacludov	0021	lacludov21	pale yellow	tiny tiny	no					
+	KLL 1-5	KH	Lactuca ludoviciana	lacludov	0022	lacludov22	white	small	"yes, lumpy"					
+	KLL 1-6	KH	Lactuca ludoviciana	lacludov	0023	lacludov23	peach	medium	no					
+	KLL 1-7	KH	Lactuca ludoviciana	lacludov	0024	lacludov24	peach	medium	yes					
+	KLL 1-8	KH	Lactuca ludoviciana	lacludov	0025	lacludov25	orange	tiny tiny	no					
+	KLL 1-9	KH	Lactuca ludoviciana	lacludov	0026	lacludov26	yellow	small	yes					
+	KLL 2-1	KH	Lactuca ludoviciana	lacludov	0027	lacludov27	pale yellow	medium	yes					
+	KLL 2-2	KH	Lactuca ludoviciana	lacludov	0028	lacludov28	peach	medium	yes					
+	KLL 2-3	KH	Lactuca ludoviciana	lacludov	0029	lacludov29	gold	medium	"yes, lumpy"					
+	KLL 2-4	KH	Lactuca ludoviciana	lacludov	0030	lacludov30	yellow	large	"yes, lumpy"					
+	KLL 2-5	KH	Lactuca ludoviciana	lacludov	0031	lacludov31	yellow	medium	yes					
+	KLL 2-6	KH	Lactuca ludoviciana	lacludov	0032	lacludov32	cream	large	"yes, lumpy"					
+	KLL 2-7	KH	Lactuca ludoviciana	lacludov	0033	lacludov33	peach	medium	yes					
+	KLL 2-8	KH	Lactuca ludoviciana	lacludov	0034	lacludov34	peach	small	yes					
+	KLL 2-9	KH	Lactuca ludoviciana	lacludov	0035	lacludov35	yellow	medium	"yes, lumpy"					
+	KLL 3-1	KH	Lactuca ludoviciana	lacludov	0036	lacludov36	orange	various	no					
+	KLL 3-2	KH	Lactuca ludoviciana	lacludov	0037	lacludov37	orange	tiny tiny	"yes, lumpy"					
+	KLL 3-3	KH	Lactuca ludoviciana	lacludov	0038	lacludov38	pale yellow	tiny	yes					
+	KLL 3-4	KH	Lactuca ludoviciana	lacludov	0039	lacludov39	yellow	medium	yes					
+	KLL 3-5	KH	Lactuca ludoviciana	lacludov	0040	lacludov40	peach	medium	yes					
+	KLL 4-1	JO	Lactuca ludoviciana	lacludov	0041	lacludov41	cream	various	no					
+	KLL 5-1	JO	Lactuca ludoviciana	lacludov	0042	lacludov42	cream	various	"yes, lumpy"					
+	KLL 6-1	JO	Lactuca ludoviciana	lacludov	0043	lacludov43	orange	various	no					
+	KLL 6-10	JO	Lactuca ludoviciana	lacludov	0044	lacludov44	pale yellow	medium	no					
+	KLL 6-11	JO	Lactuca ludoviciana	lacludov	0045	lacludov45	white	medium	"yes, scattershot"					
+	KLL 6-12	JO	Lactuca ludoviciana	lacludov	0046	lacludov46	orange	small	no					
+	KLL 6-13	JO	Lactuca ludoviciana	lacludov	0047	lacludov47	orange	tiny tiny	no					
+	KLL 6-14	JO	Lactuca ludoviciana	lacludov	0048	lacludov48	cream	small	no					
+	KLL 6-15	JO	Lactuca ludoviciana	lacludov	0049	lacludov49	cream	tiny	"yes, lumpy"					
+	KLL 6-16	JO	Lactuca ludoviciana	lacludov	0050	lacludov50	yellow	small	"yes, spearlike"					
+	KLL 6-2	JO	Lactuca ludoviciana	lacludov	0051	lacludov51	peach	medium	"yes, lumpy"					
+	KLL 6-3	JO	Lactuca ludoviciana	lacludov	0052	lacludov52	white	tiny	"yes, lumpy"					
+	KLL 6-4	JO	Lactuca ludoviciana	lacludov	0053	lacludov53	gold	medium	"yes, scattershot"					
+	KLL 6-5	JO	Lactuca ludoviciana	lacludov	0054	lacludov54	cream	large	no					
+	KLL 6-6	JO	Lactuca ludoviciana	lacludov	0055	lacludov55	yellow	large	"yes, lumpy"					
+	KLL 6-7	JO	Lactuca ludoviciana	lacludov	0056	lacludov56	pale yellow	small	"yes, lumpy"					
+	KLL 6-8	JO	Lactuca ludoviciana	lacludov	0057	lacludov57	cream	large	"yes, lumpy"					
+	KLL 6-9	JO	Lactuca ludoviciana	lacludov	0058	lacludov58	peach	small	"yes, scattershot"					
+	KLS 1-1	KH	Lactuca saligna	lacsalig	0059	lacsalig59	pale yellow	small	yes					
+	KLS 1-2	KH	Lactuca saligna	lacsalig	0060	lacsalig60	orange	tiny	no					
+	KLS 1-3	KH	Lactuca saligna	lacsalig	0061	lacsalig61	pink	tiny tiny	no					
+	KLS 2-1	KH	Lactuca saligna	lacsalig	0062	lacsalig62	pale yellow	small	"yes, lumpy"					
+	LSC 1	JS	Lactuca sp.	lacsp_	0063	lacsp_63				1	0			
+	LSC 10	JS	Lactuca sp.	lacsp_	0064	lacsp_64				0	0			
+	LSC 11	JS	Lactuca sp.	lacsp_	0065	lacsp_65				0	0			
+	LSC 12	JS	Lactuca sp.	lacsp_	0066	lacsp_66				0	0			
+	LSC 2	JS	Lactuca sp.	lacsp_	0067	lacsp_67				0	0			
+	LSC 3	JS	Lactuca sp.	lacsp_	0068	lacsp_68				1	0			
+	LSC 5	JS	Lactuca sp.	lacsp_	0069	lacsp_69				1	0			
+	LSC 6	JS	Lactuca sp.	lacsp_	0070	lacsp_70				0	0			
+	LSC 7	JS	Lactuca sp.	lacsp_	0071	lacsp_71				0	0			
+	LSC 8	JS	Lactuca sp.	lacsp_	0072	lacsp_72				0	0			
+	LSC 9	JS	Lactuca sp.	lacsp_	0073	lacsp_73				0	0			
+	LSC4B	JS	Lactuca sp.	lacsp_	0074	lacsp_74				1	0			
+	PPL 1-1	JS	Lactuca sp.	lacsp_	0075	lacsp_75	yellow	small		0	0			
+	PPL 11-3	JS	Lactuca sp.	lacsp_	0076	lacsp_76	cream	tiny tiny		1	0			
+	PPL 2-1	JS	Lactuca sp.	lacsp_	0077	lacsp_77	pale yellow	medium		0	0			
+	PPL 23	JS	Lactuca sp.	lacsp_	0078	lacsp_78	cream	medium		0	0			
+	PPL 24	JS	Lactuca sp.	lacsp_	0079	lacsp_79				0	0			
+	PPL 30	JS	Lactuca sp.	lacsp_	0080	lacsp_80				0	0			
+	PPL 3-1	JS	Lactuca sp.	lacsp_	0081	lacsp_81	pale yellow	medium		1	1			
+	PPL 3-2	JS	Lactuca sp.	lacsp_	0082	lacsp_82				0	0			
+	PPL 4-1	JS	Lactuca sp.	lacsp_	0083	lacsp_83	yellow	medium		1	1			
+	PPL 4-2	JS	Lactuca sp.	lacsp_	0084	lacsp_84				0	0			
+	PPL 5-1	JS	Lactuca sp.	lacsp_	0085	lacsp_85				0	0			
+	PPL 5-2	JS	Lactuca sp.	lacsp_	0086	lacsp_86	peach	tiny tiny		0	0			
+	PPL 6-1	JS	Lactuca sp.	lacsp_	0087	lacsp_87	cream	tiny		1	1			
+	PPL 6-2	JS	Lactuca sp.	lacsp_	0088	lacsp_88	yellow	medium		1	1			
+	PPL 6-3	JS	Lactuca sp.	lacsp_	0089	lacsp_89	peach	tiny tiny		0	0			
+	PPL 7	JS	Lactuca sp.	lacsp_	0090	lacsp_90	pale yellow	large		0	0			
+	PPL 8	JS	Lactuca sp.	lacsp_	0091	lacsp_91	pale yellow	medium		1	0			
+	PPL 9	JS	Lactuca sp.	lacsp_	0092	lacsp_92				0	0			
+	PSLSC4	JS	Lactuca sp.	lacsp_	0093	lacsp_93				1	0			
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
